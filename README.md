@@ -1,2 +1,2 @@
-# BME_Capstone_RatDep
+# BME Capstone Rat Depression Team - NAFS Detector
 Repo for BME Capstone Rat Depression 
