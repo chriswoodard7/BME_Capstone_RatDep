@@ -5,6 +5,12 @@ from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 import easygui
 
+""" --------------------------------
+actigraphy_arduino_vis_single_runn is a Python file used to visualizing
+the OFS and PIR data for just a single data file. Note that this file
+has not been updated yet to account for two OFS.
+--------------------------------- """
+
 plot_title = easygui.enterbox("Plot title")
 
 # dialog box to pick actigraphy data file to visualize
